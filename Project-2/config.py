@@ -1,0 +1,5 @@
+import os
+
+class Config:
+    SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:swati123@localhost/crud_db"
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
