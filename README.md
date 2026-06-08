@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1 - Stateless REST API Server
 
 ## Overview
@@ -196,3 +197,6 @@ Backend Development Internship Project
 ## License
 
 This project is created for learning and educational purposes.
+=======
+# DecodeLabs-Internship
+>>>>>>> 7bd838e4b59856c50baf63f8cea31f0e6aa41cfb
