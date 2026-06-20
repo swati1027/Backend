@@ -1,7 +1,6 @@
 # 🔐 Secure Authentication System
 
 **Backend Development Project 3**
-**Industrial Training Kit Batch 2026 | Powered by DecodeLabs**
 
 ## 📖 Overview
 
@@ -62,7 +61,7 @@ Project-3/
 ### 1. Clone Repository
 
 ```bash
-git clone <https://github.com/swati1027/DecodeLabs-Internship.git>
+git clone <https://github.com/swati1027/Backend.git>
 
 ```
 
@@ -218,12 +217,6 @@ Through this project, you will learn:
 * Secure Backend Development
 * API Protection Techniques
 
----
-
-## 👨‍💻 Developed For
-
-DecodeLabs Backend Development Training Program
-Batch 2026
 
 ---
 
