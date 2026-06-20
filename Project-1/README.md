@@ -48,7 +48,7 @@ Project-1-Stateless-REST-API/
 Clone the repository:
 
 ```bash
-git clone https://github.com/swati1027/DecodeLabs-Internship.git
+git clone https://github.com/swati1027/Backend.git
 ```
 
 Navigate to the project directory:
@@ -197,6 +197,4 @@ Backend Development Internship Project
 ## License
 
 This project is created for learning and educational purposes.
-=======
-# DecodeLabs-Internship
->>>>>>> 7bd838e4b59856c50baf63f8cea31f0e6aa41cfb
+
