@@ -42,7 +42,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/swati1027/DecodeLabs-Internship.git>
+git clone <https://github.com/swati1027/Backend.git>
 cd project
 ```
 
